@@ -2,6 +2,7 @@
 *{
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    background: rgba(211, 93, 93, 0.418);
 }
 
 .container{
@@ -44,6 +45,7 @@
     display: block;
     min-height: 1px;
     position: relative;
+    float: left;
 }
 
 .col-1{
