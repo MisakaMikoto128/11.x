@@ -82,7 +82,8 @@
 /* 细节部分 */
 .top-nav{
     font-size: 14px;
-    background: rgba(153, 146, 144, 0.568);
+    background: rgba(239, 238, 238, 0.568);
+    
 }
 
 /* 重置a */
@@ -120,6 +121,8 @@ body{
 
 .header{
     padding: 20px 0;
+    -webkit-box-shadow:0 1px 2px rgba(0,0,0,.1);
+    box-shadow: 0 1px 2px rgba(0,0,0,.1);
 }
 
 .header .search-bar{
